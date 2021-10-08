@@ -1,0 +1,150 @@
+@media (max-width: 1200px) {
+
+
+}
+@media (max-width: 992px) {
+    .hero-title {
+        font-size: 44px;
+    }
+    .row {
+        justify-content: center;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .socials {
+        justify-content: left;
+        margin-top: 20px;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .company-box-text {
+        margin-bottom: 20px;
+    }
+    .company-box-title {
+        font-size: 16px;
+    }
+    .company-links-title {
+        font-size: 16px;
+    }
+    .contact-title {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 30px;
+    }
+    .story-title{
+        margin-bottom: 50px;
+    }
+    .our{
+        padding: 0 0 30px;
+    }
+    .our-title{
+        margin-bottom: 32px;
+    }
+    .our-text {
+        margin-bottom: 32px;
+    }
+    .newsletter-title {
+        margin-right: 20px;
+    }
+    .socials {
+        justify-content: left;
+        margin-top: 20px;
+    }
+
+
+}
+@media (max-width: 576px) {
+    .col-4 {
+        width: 100%;
+    }
+    .hero-title {
+        font-size: 22px;
+    }
+    header{
+        padding: 8px;
+    }
+    nav ul{
+        display: none;
+    }
+    .burger-button{
+        display: flex;
+        border: none;
+        background: none;
+    }
+    .burger-button-pic{
+        width: 40px;
+    }
+    .our-card-title {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .newsletter{
+    display: block
+    }
+    .newsletter-title {
+        font-size: 18px;
+    }
+    .newsletter-button{
+        margin-top: 20px;
+    }
+
+}
+@media (max-width: 480px) {
+    .hero-title{
+        font-size: 14px;
+    }
+    .hero-text {
+        font-size: 12px;
+    }
+    .story {
+        padding: 57px 0 80px;
+    }
+    .story-title {
+        font-size: 16px;
+    }
+    .story-box-text-1 {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 18px;
+    }
+    .story-box-text-2 {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .want-title {
+        font-size: 24px;
+    }
+    .our-card {
+        padding: 22px 14px;
+    }
+    .photo-box {
+        flex-wrap: wrap;
+    }
+    .photo-box-plan {
+        margin: 0 auto 15px;
+    }
+    .photo-box-manage {
+        margin: 0 auto 15px;
+    }
+    .photo-box-build {
+        margin: 0 auto 15px;
+    }
+    .newsletter-input {
+        max-width: 190px;
+        padding: 15px 10px;
+    }
+    .signup {
+        padding: 11px 30px;
+
+}
+@media (max-width: 320px){
+}
+}
